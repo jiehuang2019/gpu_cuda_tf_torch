@@ -5,3 +5,9 @@ building blocks to fine-tuning and performance optimization of DL modeling.
 ✅ PyTorch GPU 示例
 ✅ TensorFlow GPU 示例
 ✅ Colab notebook
+
+✅ https://docs.nvidia.com/cuda/cuda-c-programming-guide/index.html
+
+✅ https://docs.pytorch.org/tutorials/
+
+✅ https://www.tensorflow.org/tutorials
